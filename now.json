@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "microicon",
-  "alias": "icon.now.sh",
+  "alias": "microicon-six.vercel.app",
   "builds": [
     {
       "src": "server/index.js",
@@ -13,7 +13,7 @@
       "src": "/",
       "status": 301,
       "headers": {
-        "Location": "https://github.com/jxnblk/microicon"
+        "Location": "https://github.com/bk7312/microicon"
       }
     },
     {
