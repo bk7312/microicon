@@ -5,6 +5,12 @@ SVG icon microservice
 
 Includes **over 1200** icons from Material Design, Reline, Geomicons, and Simple Icons
 
+Clone of https://github.com/jxnblk/microicon as the original https://icon.now.sh/ is no longer in deployment. 
+
+See also: 
+- Original issue https://github.com/jxnblk/microicon/issues/20
+- Existing clone https://microicon-clone.vercel.app/ (redirects to https://github.com/blairanderson/microicon/)
+
 ## Usage
 
 [![](https://microicon-six.vercel.app/chevron)](https://microicon-six.vercel.app/chevron)
