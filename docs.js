@@ -6,7 +6,7 @@ let doc = '# Icons\n'
 
 const createLinks = keys => {
   keys.forEach(key => {
-    const url = 'https://icon.now.sh/' + key
+    const url = 'https://microicon-six.vercel.app/' + key
     doc += `- [![](${url})](${url}) ${url}\n`
   })
 }
