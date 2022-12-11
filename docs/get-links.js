@@ -7,7 +7,7 @@ const keys = [
   ...geomiconsKeys
 ]
 
-const domain = 'https://icon.now.sh'
+const domain = 'https://microicon-six.vercel.app'
 
 const links = keys.map(key => {
   const url = `${domain}/${key}`
