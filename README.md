@@ -11,7 +11,15 @@ See also:
 - Original issue https://github.com/jxnblk/microicon/issues/20
 - Existing clone https://microicon-clone.vercel.app/ (redirects to https://github.com/blairanderson/microicon/)
 
+
+
 ## Usage
+
+Go to [`icons.md`](icons.md) for the full list of icons. 
+
+To use, simply put https://microicon-six.vercel.app/<icon-name> as the source link and it should work.
+
+Example: The chevron icon below:
 
 [![](https://microicon-six.vercel.app/chevron)](https://microicon-six.vercel.app/chevron)
 
@@ -45,9 +53,6 @@ https://microicon-six.vercel.app/chevron/down
 
 https://microicon-six.vercel.app/chevron/?strokeWidth=1
 
-## Icons
-
-For a complete list of icons see: [`icons.md`](icons.md)
 
 
 MIT License
