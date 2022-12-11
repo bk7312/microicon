@@ -23,11 +23,13 @@ Example: To use the chevron ([![](https://microicon-six.vercel.app/chevron)](htt
 Icons can be modified by adding ${icon-options} to change the font size or color or direction (directional icons only) or any combination in any order.
 
 Examples:
-- [![](https://microicon-six.vercel.app/chevron/32)](https://microicon-six.vercel.app/chevron/32) https://microicon-six.vercel.app/chevron/32
-- [![](https://microicon-six.vercel.app/chevron/ff0000)](https://microicon-six.vercel.app/chevron/ff0000) https://microicon-six.vercel.app/chevron/ff0000
-- [![](https://microicon-six.vercel.app/chevron/12/ff0000)](https://microicon-six.vercel.app/chevron/12/ff0000) https://microicon-six.vercel.app/chevron/12/ff0000
-- [![](https://microicon-six.vercel.app/chevron/down)](https://microicon-six.vercel.app/chevron/down) https://microicon-six.vercel.app/chevron/down
-- [![](https://microicon-six.vercel.app/chevron/up/24)](https://microicon-six.vercel.app/chevron/up/24) https://microicon-six.vercel.app/chevron/up/24
-- [![](https://microicon-six.vercel.app/chevron/left/00ff00/30)](https://microicon-six.vercel.app/chevron/left/00ff00/30) https://microicon-six.vercel.app/chevron/left/00ff00/30
+| Icons | Links |
+| :---: | :---- |
+| [![](https://microicon-six.vercel.app/chevron/32)](https://microicon-six.vercel.app/chevron/32) | https://microicon-six.vercel.app/chevron/32 |
+| [![](https://microicon-six.vercel.app/chevron/ff0000)](https://microicon-six.vercel.app/chevron/ff0000) | https://microicon-six.vercel.app/chevron/ff0000 | 
+| [![](https://microicon-six.vercel.app/chevron/12/ff0000)](https://microicon-six.vercel.app/chevron/12/ff0000) | https://microicon-six.vercel.app/chevron/12/ff0000 |
+| [![](https://microicon-six.vercel.app/chevron/down)](https://microicon-six.vercel.app/chevron/down) | https://microicon-six.vercel.app/chevron/down |
+| [![](https://microicon-six.vercel.app/chevron/up/24)](https://microicon-six.vercel.app/chevron/up/24) | https://microicon-six.vercel.app/chevron/up/24 |
+| [![](https://microicon-six.vercel.app/chevron/left/00ff00/30)](https://microicon-six.vercel.app/chevron/left/00ff00/30) | https://microicon-six.vercel.app/chevron/left/00ff00/30 |
 
 MIT License
